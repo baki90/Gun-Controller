@@ -6,19 +6,19 @@
   1. 가속도, 자이로 센서 상보 필터링을 통해 PC의 마우스 제어
   2. 조이스틱, 버튼을 이용하여 키보드 입력 제어
 
- ![KakaoTalk_20200628_130352649](https://user-images.githubusercontent.com/30331087/85937594-0455d180-b940-11ea-866b-a10554be8027.gif)
+ ![KakaoTalk_20200628_130352649](https://user-images.githubusercontent.com/30331087/85937594-0455d180-b940-11ea-866b-a10554be8027.gif){: width="50%" height="50%"}
 
 
 ## Block Diagram
-  ![image](https://user-images.githubusercontent.com/30331087/85937394-fe5ef100-b93d-11ea-9a01-c0ffec915f4f.png)
+  ![image](https://user-images.githubusercontent.com/30331087/85937394-fe5ef100-b93d-11ea-9a01-c0ffec915f4f.png){: width="80%" height="80%"}
 
 ## Schematic
-  ![image](https://user-images.githubusercontent.com/30331087/85937408-323a1680-b93e-11ea-91b5-aeff994bcc1c.png)
+  ![image](https://user-images.githubusercontent.com/30331087/85937408-323a1680-b93e-11ea-91b5-aeff994bcc1c.png){: width="80%" height="80%"}
   - button을 RC회로로 구성하여 채터링을 방지함
   - MPU6050 PULL-UP
 
 ## Circuit
-  ![image](https://user-images.githubusercontent.com/30331087/85937531-5518fa80-b93f-11ea-9576-c1d37a74b84d.png)
+  ![image](https://user-images.githubusercontent.com/30331087/85937531-5518fa80-b93f-11ea-9576-c1d37a74b84d.png){: width="80%" height="80%"}
 
 
 ## Code
