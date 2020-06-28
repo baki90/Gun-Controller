@@ -3,9 +3,9 @@
 
 # FPS 게임 연동 컨트롤러
 - 컨트롤러를 통한 PC 제어가 이루어진다.
-1. 가속도, 자이로 센서 상보 필터링을 통해 PC의 마우스 제어
-2. 조이스틱, 버튼을 이용하여 키보드 입력 제어
-  
+  1. 가속도, 자이로 센서 상보 필터링을 통해 PC의 마우스 제어
+  2. 조이스틱, 버튼을 이용하여 키보드 입력 제어
+
   <img src="https://user-images.githubusercontent.com/30331087/85937594-0455d180-b940-11ea-866b-a10554be8027.gif" width="50%" height="50%">
 
 ## Block Diagram
@@ -13,7 +13,6 @@
 
 ## Schematic
   <img src="https://user-images.githubusercontent.com/30331087/85937408-323a1680-b93e-11ea-91b5-aeff994bcc1c.png" width="80%" height="80%">
-  
   - button을 RC회로로 구성하여 채터링을 방지함
   - MPU6050 PULL-UP
 
